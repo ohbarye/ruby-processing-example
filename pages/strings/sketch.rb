@@ -1,5 +1,5 @@
 def setup
-  P5.createCanvas(600, 400)
+  P5.createCanvas(P5.windowWidth, P5.windowHeight)
   P5.frameRate(4)
 end
 
