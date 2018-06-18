@@ -1,6 +1,6 @@
 ## Ruby Processing Examples
 
-See examples on https://ohbarye.github.io/ruby-processing-example
+See examples on https://ohbarye.github.io/ruby-processing-examples
 
 ### Example
 
